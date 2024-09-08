@@ -36,5 +36,5 @@
 
   ```
   $ cd dump
-  $ python dump.py
+  $ python dumpx.py
   ```
