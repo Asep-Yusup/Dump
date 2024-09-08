@@ -30,7 +30,7 @@
   $ pip install bs4
   $ git clone https://github.com/Asep-Yusup/dump.git
   $ cd dump
-  $ python dump.py
+  $ python dumpx.py
   ```
   - Running on Termux
 
