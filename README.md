@@ -15,8 +15,6 @@
 
 📫 &nbsp; Email Saya : BetyCricket@proton.me
 
-<h1>Sekrip Open Source<h1>
-
 [![WhatsApp](https://img.icons8.com/?size=50&id=16713&format=png&color=000000)](https://wa.me/+16592814184)
 [![Telegram](https://img.icons8.com/?size=50&id=63306&format=png&color=000000)](https://t.me/AsepYusup)
 
