@@ -1,2 +1,2 @@
 import dump
-dump.menu_dump()
+dump.menu()
