@@ -1,2 +1,2 @@
 import dump
-dump.loginkuy()
+dump.loginku()
